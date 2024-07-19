@@ -1,0 +1,25 @@
+<?php return array (
+  'web_name' => 'Bettpro',
+  'color_code' => 'fff',
+  'contact_address' => 'Berlin,Germany',
+  'contact_email' => 'support@example.com',
+  'contact_phone' => '0123654789',
+  'currency' => 'USD',
+  'currency_symbol' => '$',
+  'paginate' => 15,
+  'copyright_text' => 'All Rights Reserved',
+  'sender_email' => 'betpro@s7template.com',
+  'sender_email_name' => 'Betpro',
+  'email_description' => 'Hi {{name}}, {{message}} , Thank you',
+  'email_configuration' => 
+  array (
+    'name' => 'smtp',
+    'smtp_host' => 'mail.s7template.com',
+    'smtp_port' => '587',
+    'smtp_encryption' => 'tls',
+    'smtp_username' => 'betpro@s7template.com',
+    'smtp_password' => '5lOaPMhqJwr$',
+  ),
+  'global_email' => 'support@mail.com',
+  'global_description' => 'Hi {{name}}, {{message}} , Thank you',
+);
